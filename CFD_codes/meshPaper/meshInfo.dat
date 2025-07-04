@@ -1,0 +1,48 @@
+Variable,   Value,   Description 
+p1x,        0.60,     Posición x del punto 01
+p1y,   	    0.00,     Posición y del punto 01
+p2x,        1.20,     Posición x del punto 02
+p2y,        0.00,     Posición y del punto 02
+p3x,        1.20,     Posición x del punto 03
+p3y,        0.20,     Posición y del punto 03
+p4x, 	    1.50,     Posición x del punto 04
+p4y, 	    0.20,     Posición y del punto 04
+p5x,        2.10,     Posición x del punto 05
+p5y,        0.20,     Posición y del punto 05 
+p6x,        2.10,     Posición x del punto 06
+p6y,        0.90,     Posición y del punto 06
+p7x,        2.10,     Posición x del punto 07
+p7y,	    1.00,     Posición y del punto 07	
+p8x,	    2.10,     Posición x del punto 08
+p8y,        2.20,     Posición y del punto 08
+p9x,        2.10,     Posición x del punto 09
+p9y,	    3.00,     Posición y del punto 09
+p10x,       1.50,     Posición x del punto 10
+p10y,       3.00,     Posición y del punto 10
+p11x,       0.60,     Posición x del punto 11
+p11y,       3.00,     Posición y del punto 11
+p12x,       0.00,     Posición x del punto 12
+p12y,       3.00,     Posición y del punto 12
+p13x,       0.00,     Posición x del punto 13
+p13y,       2.20,     Posición y del punto 13
+p14x,       0.60,     Posición x del punto 14
+p14y,       2.20,     Posición y del punto 14
+p15x,       0.60,     Posición x del punto 15
+p15y,       1.00,     Posición y del punto 15
+p16x,       1.50,     Posición x del punto 16
+p16y,       1.00,     Posición y del punto 16
+p17x,       1.50,     Posición x del punto 17
+p17y,       0.90,     Posición y del punto 17
+p18x,       1.20,     Posición x del punto 18
+p18y,       0.90,     Posición y del punto 18
+p19x,       0.60,     Posición x del punto 19
+p19y,       0.90,     Posición y del punto 19
+p20x,       0.60,     Posición x del punto 20
+p20y,       0.20,     Posición y del punto 20
+p21x,       1.50,     Posición x del punto 21
+p21y,       2.20,     Posición y del punto 21
+front,      0.00,     Posicón z de todos los puntos
+back,       -0.5,     Para hacer la extrución
+sizeX,      0.05,     Tamaño del elemento en X
+sizeY,      0.05,     Tamaño del elemento en Y
+fileName,   validacionCalcinador, Nombre para guardar el archivo .msh
