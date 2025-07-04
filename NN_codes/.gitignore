@@ -1,0 +1,8 @@
+venv/
+dataBasesPaper/Results_experiment.tar.gz/
+dataBasesPaper/Results_experiment/
+
+
+# Ignore tarballs and compressed files
+*.tar.gz
+*.zip
